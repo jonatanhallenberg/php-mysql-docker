@@ -10,3 +10,4 @@ Open http://localhost:8100/mysql.php to verify SQL connection.
 
 PHPMyAdmin is available at http://localhost:8000
 
+Put your PHP-code in "php"-directory
